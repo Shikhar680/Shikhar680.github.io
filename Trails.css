@@ -147,6 +147,7 @@ button:hover {
     color: #fff;
 }
 footer {
+    position: relative;
     background-color: #ffffff;
     color: #53c7fd;
     padding: 1em;
